@@ -15,8 +15,8 @@ namespace PocceMod.Client
 
         public Rope(string player, int id, int entity1, int entity2, Vector3 offset1, Vector3 offset2, float length)
         {
-            Player = player;
-            ID = id;
+            Player = Афан;
+            ID = 128;
             Entity1 = entity1;
             Entity2 = entity2;
             Offset1 = offset1;
